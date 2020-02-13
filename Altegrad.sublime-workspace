@@ -28,11 +28,18 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "/C/Users/Rzhang/Desktop/Lung_survival/.gitignore",
 			"settings":
 			{
-				"buffer_size": 224,
-				"encoding": "UTF-8",
+				"buffer_size": 251,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "graph_baseline.csv",
+			"settings":
+			{
+				"buffer_size": 93318,
 				"line_ending": "Windows"
 			}
 		}
@@ -137,6 +144,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/.gitignore",
 		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/3",
 		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/0",
 		"/C/Users/Rzhang/Desktop/Raymond_Test.py",
@@ -328,24 +336,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "/C/Users/Rzhang/Desktop/Lung_survival/.gitignore",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 224,
+						"buffer_size": 251,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								98,
-								98
+								0,
+								0
 							]
 						],
 						"settings":
@@ -353,7 +361,35 @@
 							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 39.2,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "graph_baseline.csv",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 93318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
