@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"cla",
+				"classes"
+			],
+			[
 				"de",
 				"destroy"
 			],
@@ -28,18 +32,61 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Rzhang/Desktop/Lung_survival/.gitignore",
+			"file": "document_bert_architectures.py",
 			"settings":
 			{
-				"buffer_size": 251,
+				"buffer_size": 9571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "document_bert.py",
+			"settings":
+			{
+				"buffer_size": 15382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Train_data.csv",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "graph_baseline.csv",
+			"file": "text/text/10010",
 			"settings":
 			{
-				"buffer_size": 93318,
+				"buffer_size": 50520,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/ml4health_2019_replication/train_n2c2_2008.py",
+			"settings":
+			{
+				"buffer_size": 4439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/ml4health_2019_replication/data.py",
+			"settings":
+			{
+				"buffer_size": 5776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "examples/French_domain/Train_french_domain.py",
+			"settings":
+			{
+				"buffer_size": 4439,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -140,13 +187,41 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Rzhang/Desktop/Altegrad_classification"
+		"/C/Users/Rzhang/Desktop/Altegrad_classification",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/text",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text"
 	],
 	"file_history":
 	[
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/0",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/examples/ml4health_2019_replication/Train_french_domain",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/examples/ml4health_2019_replication/n2c2_2008_train_config.ini",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/examples/ml4health_2019_replication/__init__.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/examples/ml4health_2019_replication/Train_french_domain_config",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/bert_class2.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/graph_baseline.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/examples/prediction.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/examples/training.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/examples/ml4health_2019_replication/train_n2c2_2006.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/examples/ml4health_2019_replication/predict_n2c2_2006.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/bert_document_classification/document_bert.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/text_baseline.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/transformer.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/models/util.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/bert_document_classification/models/smoker_document_bert.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/bert_document_classification/models/__init__.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/bert_class.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/examples/prediction.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/bert_document_classification/models/obesity_document_bert.py",
+		"/C/Users/Rzhang/Desktop/bert_document_classification-master/setup.py",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/train.csv",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/test.csv",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/README.md",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/to_number",
+		"/C/Users/Rzhang/Desktop/Altegrad_classification/graph_baseline.csv",
+		"/C/Users/Rzhang/Desktop/Lung_survival/.gitignore",
 		"/C/Users/Rzhang/Desktop/Altegrad_classification/.gitignore",
 		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/3",
-		"/C/Users/Rzhang/Desktop/Altegrad_classification/text/text/0",
 		"/C/Users/Rzhang/Desktop/Raymond_Test.py",
 		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.11960/graph_baseline.csv",
 		"/C/Users/Rzhang/AppData/Local/Temp/Rar$DIa16200.11054/train.csv",
@@ -336,16 +411,44 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Rzhang/Desktop/Lung_survival/.gitignore",
+					"file": "document_bert_architectures.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 251,
+						"buffer_size": 9571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4674,
+								4674
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "document_bert.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15382,
 						"regions":
 						{
 						},
@@ -358,22 +461,24 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1911.2,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "graph_baseline.csv",
-					"semi_transient": true,
+					"buffer": 2,
+					"file": "Train_data.csv",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 93318,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -389,10 +494,130 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 39.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "text/text/10010",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 50520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.4,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "examples/ml4health_2019_replication/train_n2c2_2008.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								4439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1209.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "examples/ml4health_2019_replication/data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "examples/French_domain/Train_french_domain.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4439,
+								4439
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1053.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
